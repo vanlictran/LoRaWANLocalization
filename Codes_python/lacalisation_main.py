@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 14 04:30:25 2022
 
-@author: sbouro
+@author: Van Lic and sbouro
 
 We used :
     -location of 4 relay: 
