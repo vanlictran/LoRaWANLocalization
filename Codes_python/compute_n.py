@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 13 23:28:43 2022
 
-@author: sbouro
+@author: van lic and sbouro
 """
 # Import math Library
 import math
